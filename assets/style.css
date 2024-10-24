@@ -51,6 +51,7 @@ body {
   }
 .cartao__conteudo{
   transform-style: preserve-3d;
+  transition: transform 300ms ease-in-out;
 }
   footer {
     background-color: black;
