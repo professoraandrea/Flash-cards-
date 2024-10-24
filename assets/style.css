@@ -49,7 +49,9 @@ body {
   .cartao:hover .cartao__conteudo{
     transform: rotateY(180deg);
   }
-
+.cartao__conteudo{
+  transform-style: preserve-3d;
+}
   footer {
     background-color: black;
     color: white;
