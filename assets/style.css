@@ -46,9 +46,9 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
   }
-.cartao__conteudo: :hover .cartao__conteudo{
-  transform: rotateY(180deg);
-}
+  .cartao:hover .cartao__conteudo{
+    transform: rotateY(180deg);
+  }
 
   footer {
     background-color: black;
