@@ -46,6 +46,10 @@ body {
     color: var(--card-back-color);
     font-weight: 700;
   }
+.cartao__conteudo: :hover .cartao__conteudo{
+  
+}
+
   footer {
     background-color: black;
     color: white;
